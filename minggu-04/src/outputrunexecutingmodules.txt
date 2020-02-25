@@ -1,0 +1,18 @@
+Python 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 01:54:44) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========== RESTART: C:\Users\modebadak\Documents\New folder\fibo.py ===========
+>>> import sys
+>>> sys.ps1
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    sys.ps1
+AttributeError: module 'sys' has no attribute 'ps1'
+>>> sys.ps2
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    sys.ps2
+AttributeError: module 'sys' has no attribute 'ps2'
+>>> import sys
+>>> sys.path.append('/ufs/guido/lib/python')
+>>> 

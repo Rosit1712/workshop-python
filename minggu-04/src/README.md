@@ -1,0 +1,1 @@
+NB : .txt adalah hasil dari interpreter python file .py untuk mencoba menjalankan ketikan syntax yg ada di setelah tanda >>> atau bisa lihat ke https://docs.python.org/3/tutorial/modules.html
