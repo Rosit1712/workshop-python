@@ -7,3 +7,4 @@ url: https://docs.python.org/3/
 4. Minggu-04 : Bab 6 (Modules)
 5. Minggu-05 : Bab 7 (Input and Output)
 6. Minggu-06 : Bab 8 (Errors and Exceptions)
+7. Minggu-07 : Bab 9 (Classes)
