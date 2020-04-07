@@ -8,3 +8,4 @@ url: https://docs.python.org/3/
 5. Minggu-05 : Bab 7 (Input and Output)
 6. Minggu-06 : Bab 8 (Errors and Exceptions)
 7. Minggu-07 : Bab 9 (Classes)
+8. Minggu-08 : Bab 10 dan 11 (Brief Tour of the Standard Library)
