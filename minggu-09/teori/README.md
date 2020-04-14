@@ -1,6 +1,6 @@
 # Minggu-09 #
 - - - -
-## Virtual Environts and Packages ##
+## Virtual Environments and Packages ##
 
 * Python memnugkinkan dalam sebuah aplikasi nya bisa menggunakan library standart ataupun library dengan versi tertentu saja
 * Yakni dengan menggunakan virtual environment (sebuah direktori mandiri yang berisi instalasi python untuk versi tertentu saja dan berisi package tambahan lainnya)
