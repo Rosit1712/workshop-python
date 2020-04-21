@@ -1,5 +1,9 @@
 # workshop-python
-url: https://docs.python.org/3/
+url :
+* https://docs.python.org/3/
+* https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+* https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb.html
+* https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-sqlalchemy.html 
 
 1. Minggu-01 : Bab 1 - 3 (Whetting Your Appettite, Interpreter Python, Pengenal Python)
 2. Minggu-02 : Bab 4 (More Control Flow Tools)
@@ -10,3 +14,4 @@ url: https://docs.python.org/3/
 7. Minggu-07 : Bab 9 (Classes)
 8. Minggu-08 : Bab 10 dan 11 (Brief Tour of the Standard Library)
 9. Minggu-09 : Bab 12 dan Conda
+10. Minggu-10 : CockroachDB menggunakan psycopg2 dan menggunakan SQLAlchemy
