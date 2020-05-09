@@ -6,6 +6,7 @@ url sumber:
 * https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-sqlalchemy.html 
 * https://palletsprojects.com/p/flask/
 * https://flask.palletsprojects.com/en/1.1.x/tutorial/
+* https://www.guru99.com/scipy-tutorial.html
 
 1. Minggu-01 : Bab 1 - 3 (Whetting Your Appettite, Interpreter Python, Pengenal Python)
 2. Minggu-02 : Bab 4 (More Control Flow Tools)
@@ -18,3 +19,4 @@ url sumber:
 9. Minggu-09 : Bab 12 dan Conda
 10. Minggu-10 : CockroachDB menggunakan psycopg2 dan menggunakan SQLAlchemy
 11. Minggu-11 : Flask
+12. Minggu-12 : Python SciPy
