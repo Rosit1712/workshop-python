@@ -7,6 +7,7 @@ url sumber:
 * https://palletsprojects.com/p/flask/
 * https://flask.palletsprojects.com/en/1.1.x/tutorial/
 * https://www.guru99.com/scipy-tutorial.html
+* https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 1. Minggu-01 : Bab 1 - 3 (Whetting Your Appettite, Interpreter Python, Pengenal Python)
 2. Minggu-02 : Bab 4 (More Control Flow Tools)
@@ -20,3 +21,4 @@ url sumber:
 10. Minggu-10 : CockroachDB menggunakan psycopg2 dan menggunakan SQLAlchemy
 11. Minggu-11 : Flask
 12. Minggu-12 : Python SciPy
+13. Minggu-13 : Pandas
