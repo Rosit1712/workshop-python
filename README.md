@@ -8,6 +8,8 @@ url sumber:
 * https://flask.palletsprojects.com/en/1.1.x/tutorial/
 * https://www.guru99.com/scipy-tutorial.html
 * https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+* https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+
 
 1. Minggu-01 : Bab 1 - 3 (Whetting Your Appettite, Interpreter Python, Pengenal Python)
 2. Minggu-02 : Bab 4 (More Control Flow Tools)
@@ -18,8 +20,8 @@ url sumber:
 7. Minggu-07 : Bab 9 (Classes)
 8. Minggu-08 : Bab 10 dan 11 (Brief Tour of the Standard Library)
 9. Minggu-09 : Bab 12 dan Conda
-10. Minggu-10 : CockroachDB menggunakan psycopg2 dan menggunakan SQLAlchemy
-11. Minggu-11 : Flask
-12. Minggu-12 : Python SciPy
-13. Minggu-13 : Pandas
+10. Minggu-10 : Akses Basis Data (CockroachDB menggunakan psycopg2 dan menggunakan SQLAlchemy)
+11. Minggu-11 : Pemrograman Web (Flask)
+12. Minggu-12 : Python untuk Komputasi Ilmiah (Python SciPy)
+13. Minggu-13 : Python untuk Data Analytics (Pandas)
 14. Minggu-14 : Python untuk Machine Learning (scikit-learn)
