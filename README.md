@@ -22,3 +22,4 @@ url sumber:
 11. Minggu-11 : Flask
 12. Minggu-12 : Python SciPy
 13. Minggu-13 : Pandas
+14. Minggu-14 : Python untuk Machine Learning (scikit-learn)
